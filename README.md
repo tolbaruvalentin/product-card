@@ -1,2 +1,2 @@
 # product-card
-reuseble product cart
+reuseble product card
